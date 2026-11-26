@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+data/
+
+PS_20174392719_1491204439457_log.csv
+balanced_fraud_dataset.csv
+quantum_dataset.csv
+quantum_dataset_medium.csv

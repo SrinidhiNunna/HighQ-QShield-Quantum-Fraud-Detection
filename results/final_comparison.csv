@@ -1,0 +1,6 @@
+Model,F1
+Random Forest,0.9997
+XGBoost,0.9994
+Classical SVM,0.9058
+Logistic Regression,0.9048
+QSVM,0.7667
