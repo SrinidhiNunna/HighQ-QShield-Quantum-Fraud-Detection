@@ -1,8 +1,8 @@
-# HighQ: Quantum Kernel Learning for Mobile Money Fraud Detection
+# QShield: Quantum Kernel Learning for Mobile Money Fraud Detection
 
-[![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-blue)]()
-[![Qiskit](https://img.shields.io/badge/Qiskit-QML-purple)]()
-[![Python](https://img.shields.io/badge/Python-3.12-green)]()
+![IBM Quantum](https://img.shields.io/badge/IBM-Quantum-blue)()
+![Qiskit](https://img.shields.io/badge/Qiskit-QML-purple)()
+![Python](https://img.shields.io/badge/Python-3.12-green)()
 
 ## IBM Quantum Fall Fest 2026
 
