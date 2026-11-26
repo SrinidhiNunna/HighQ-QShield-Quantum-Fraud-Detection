@@ -35,8 +35,8 @@ Logistic Regression F1: 0.9048
 
 ## Quantum Validation
 
-QSVM F1: 0.814
+QSVM F1: 0.766
 
-Recall: 0.875
+Recall: 0.69
 
-PCA Variance Retained: 89.28%
+PCA Variance Retained: 89.68%
